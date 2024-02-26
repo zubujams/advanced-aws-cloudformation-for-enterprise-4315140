@@ -4,11 +4,11 @@ Description: |
 Parameters:
   
   RepoOwner:
-    Description: The username of the owner of the repo
+    Description: The username of the owner of the repo.
     Type: String
 
   RepoName:
-    Description: The name of the GitHub repo
+    Description: The name of the GitHub repo.
     Type: String
 
   TemplatePath:
